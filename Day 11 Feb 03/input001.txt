@@ -1,0 +1,10 @@
+add Title1,Author1,Subject1
+add Title2,Author1,Subject2
+add Title3,Author1,Subject1
+add Title4,Author2,Subject2
+add Title5,Author6,Subject3
+getAuthor Author1
+getTitle Title5
+printCatlog
+remove Title3
+printCatlog
